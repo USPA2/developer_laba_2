@@ -64,4 +64,5 @@ Let's try again, Sam!
 1. Реализованы две игры
 2. Проверьте работоспособность новой игры
 3. Проект подключен к сервису по проверке качества кода: www.CodeClimate.com	
+<a href="https://codeclimate.com/github/USPA2/developer_laba_2/maintainability"><img src="https://api.codeclimate.com/v1/badges/671203a205839235a5ce/maintainability" /></a>
 4. Общая логика игр выведена в файл cli.py. Логика запуска игр выведена в файл engine.py. Исходный код игр помещен в папку games.Главное в этом задании выполнить рефакторинг, в результате которого общая логика будет н
